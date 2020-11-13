@@ -1,4 +1,5 @@
 os: linux
 arch: amd64
 dist: xenial
-echo "Hello !!"
+script:
+  - echo "Hello !!"
